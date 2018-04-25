@@ -1,0 +1,2475 @@
+[2018-03-21 18:35:15]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-21 18:40:27]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-21 18:41:01]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 14:32:03]select * from `admin`
+[2018-03-22 14:32:04]select count(*) as aggregate from `users`
+[2018-03-22 14:32:04]select * from `users` limit 10 offset 0
+[2018-03-22 14:32:08]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 14:56:17]select count(*) as aggregate from `users`
+[2018-03-22 14:56:17]select * from `users` limit 10 offset 0
+[2018-03-22 14:56:26]select count(*) as aggregate from `users`
+[2018-03-22 14:56:26]select * from `users` limit 10 offset 0
+[2018-03-22 14:56:33]select count(*) as aggregate from `users`
+[2018-03-22 14:56:33]select * from `users` limit 10 offset 0
+[2018-03-22 14:56:34]select count(*) as aggregate from `users`
+[2018-03-22 14:56:34]select * from `users` limit 10 offset 0
+[2018-03-22 14:59:25]select * from admin where username=?
+[2018-03-22 14:59:29]select count(*) as aggregate from `users`
+[2018-03-22 14:59:29]select * from `users` limit 10 offset 0
+[2018-03-22 15:00:41]select * from admin where username=?
+[2018-03-22 15:00:43]select count(*) as aggregate from `users`
+[2018-03-22 15:00:43]select * from `users` limit 10 offset 0
+[2018-03-22 15:08:30]select count(*) as aggregate from `users`
+[2018-03-22 15:08:30]select * from `users` limit 10 offset 0
+[2018-03-22 15:08:30]select count(*) as aggregate from `users`
+[2018-03-22 15:08:30]select * from `users` limit 10 offset 0
+[2018-03-22 15:35:54]select * from admin where username=?
+[2018-03-22 15:35:57]select count(*) as aggregate from `users`
+[2018-03-22 15:35:57]select * from `users` limit 10 offset 0
+[2018-03-22 15:36:00]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 16:50:59]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 16:51:04]select * from `cates`
+[2018-03-22 16:57:40]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 16:59:40]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 17:00:29]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 17:22:24]select * from admin where username=?
+[2018-03-22 17:22:26]select count(*) as aggregate from `users`
+[2018-03-22 17:22:26]select * from `users` limit 10 offset 0
+[2018-03-22 17:22:29]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 17:22:32]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 17:38:18]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 17:42:45]insert into `article` (`title`, `author`, `cateid`, `intro`, `details`, `keywords`, `picture`, `uid`) values (?, ?, ?, ?, ?, ?, ?, ?)
+[2018-03-22 17:42:49]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 17:43:52]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 17:44:09]insert into `article` (`title`, `author`, `cateid`, `intro`, `details`, `keywords`, `picture`, `uid`) values (?, ?, ?, ?, ?, ?, ?, ?)
+[2018-03-22 17:44:11]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 17:57:47]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 18:18:49]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 18:18:52]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-22 18:18:55]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 18:19:37]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-22 18:19:51]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 10:06:19]select * from admin where username=?
+[2018-03-23 10:06:22]select count(*) as aggregate from `users`
+[2018-03-23 10:06:22]select * from `users` limit 10 offset 0
+[2018-03-23 10:06:29]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 10:09:02]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 10:09:07]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 10:09:18]select count(*) as aggregate from `users`
+[2018-03-23 10:09:18]select * from `users` limit 10 offset 0
+[2018-03-23 10:09:21]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:07:22]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:07:37]delete from `article` where `id` = ?
+[2018-03-23 11:07:40]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:07:45]delete from `article` where `id` = ?
+[2018-03-23 11:07:47]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:07:53]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 11:18:52]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:18:52]select count(*) as aggregate from `article`
+[2018-03-23 11:18:52]select * from `article` limit 10 offset 0
+[2018-03-23 11:19:43]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:19:43]select count(*) as aggregate from `article`
+[2018-03-23 11:19:43]select * from `article` limit 10 offset 0
+[2018-03-23 11:20:18]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:20:18]select count(*) as aggregate from `article`
+[2018-03-23 11:20:18]select * from `article` limit 10 offset 0
+[2018-03-23 11:22:28]select count(*) as aggregate from `users`
+[2018-03-23 11:22:28]select * from `users` limit 10 offset 0
+[2018-03-23 11:23:08]select count(*) as aggregate from `users`
+[2018-03-23 11:23:08]select * from `users` limit 10 offset 80
+[2018-03-23 11:37:44]select count(*) as aggregate from `users`
+[2018-03-23 11:37:44]select * from `users` limit 10 offset 80
+[2018-03-23 11:38:09]select count(*) as aggregate from `users`
+[2018-03-23 11:38:09]select * from `users` limit 10 offset 80
+[2018-03-23 11:38:37]select count(*) as aggregate from `users`
+[2018-03-23 11:38:37]select * from `users` limit 10 offset 80
+[2018-03-23 11:38:43]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:38:43]select count(*) as aggregate from `article`
+[2018-03-23 11:38:43]select * from `article` limit 10 offset 0
+[2018-03-23 11:39:02]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:39:02]select count(*) as aggregate from `article`
+[2018-03-23 11:39:02]select * from `article` limit 10 offset 0
+[2018-03-23 11:39:07]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:39:07]select count(*) as aggregate from `article`
+[2018-03-23 11:39:07]select * from `article` limit 10 offset 0
+[2018-03-23 11:40:22]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:40:22]select count(*) as aggregate from `article`
+[2018-03-23 11:40:22]select * from `article` limit 10 offset 0
+[2018-03-23 11:41:14]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:41:14]select count(*) as aggregate from `article`
+[2018-03-23 11:41:14]select * from `article` limit 10 offset 0
+[2018-03-23 11:41:27]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:41:27]select count(*) as aggregate from `article`
+[2018-03-23 11:41:27]select * from `article` limit 10 offset 10
+[2018-03-23 11:41:31]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:41:31]select count(*) as aggregate from `article`
+[2018-03-23 11:41:31]select * from `article` limit 10 offset 20
+[2018-03-23 11:45:19]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:45:19]select count(*) as aggregate from `article`
+[2018-03-23 11:45:19]select * from `article` limit 10 offset 20
+[2018-03-23 11:46:01]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:46:01]select count(*) as aggregate from `article`
+[2018-03-23 11:46:01]select * from `article` limit 10 offset 20
+[2018-03-23 11:47:10]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:47:10]select count(*) as aggregate from `article`
+[2018-03-23 11:47:10]select * from `article` limit 10 offset 20
+[2018-03-23 11:47:43]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:47:43]select count(*) as aggregate from `article`
+[2018-03-23 11:47:43]select * from `article` limit 10 offset 20
+[2018-03-23 11:50:44]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:50:44]select count(*) as aggregate from `article`
+[2018-03-23 11:50:44]select * from `article` limit 10 offset 20
+[2018-03-23 11:52:05]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 11:52:05]select count(*) as aggregate from `article`
+[2018-03-23 11:52:05]select * from `article` limit 10 offset 20
+[2018-03-23 15:41:39]select * from admin where username=?
+[2018-03-23 15:41:42]select count(*) as aggregate from `users`
+[2018-03-23 15:41:42]select * from `users` limit 10 offset 0
+[2018-03-23 15:41:53]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 15:41:53]select count(*) as aggregate from `article`
+[2018-03-23 15:41:53]select * from `article` limit 10 offset 0
+[2018-03-23 15:41:55]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:42:43]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:42:56]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:42:59]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 15:42:59]select count(*) as aggregate from `article`
+[2018-03-23 15:42:59]select * from `article` limit 10 offset 0
+[2018-03-23 15:43:05]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:45:30]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:46:01]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:46:19]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:46:35]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:46:50]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:47:28]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:48:49]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:49:27]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:49:29]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:50:50]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:50:53]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:52:46]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 15:53:09]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 15:53:09]select count(*) as aggregate from `article`
+[2018-03-23 15:53:09]select * from `article` limit 10 offset 0
+[2018-03-23 15:53:11]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 16:28:27]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 16:28:36]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:36]select count(*) as aggregate from `article`
+[2018-03-23 16:28:36]select * from `article` limit 10 offset 0
+[2018-03-23 16:28:38]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:38]select count(*) as aggregate from `article`
+[2018-03-23 16:28:38]select * from `article` limit 10 offset 0
+[2018-03-23 16:28:39]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:39]select count(*) as aggregate from `article`
+[2018-03-23 16:28:39]select * from `article` limit 10 offset 0
+[2018-03-23 16:28:41]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:41]select count(*) as aggregate from `article`
+[2018-03-23 16:28:41]select * from `article` limit 10 offset 0
+[2018-03-23 16:28:41]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:41]select count(*) as aggregate from `article`
+[2018-03-23 16:28:41]select * from `article` limit 10 offset 0
+[2018-03-23 16:28:43]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:43]select count(*) as aggregate from `article`
+[2018-03-23 16:28:43]select * from `article` limit 10 offset 0
+[2018-03-23 16:28:44]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:28:44]select count(*) as aggregate from `article`
+[2018-03-23 16:28:44]select * from `article` limit 10 offset 0
+[2018-03-23 16:29:16]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:29:16]select count(*) as aggregate from `article`
+[2018-03-23 16:29:16]select * from `article` limit 10 offset 0
+[2018-03-23 16:29:18]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-23 16:29:18]select count(*) as aggregate from `article`
+[2018-03-23 16:29:18]select * from `article` limit 10 offset 0
+[2018-03-23 16:29:45]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-23 16:31:24]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 11:07:18]select * from admin where username=?
+[2018-03-24 11:09:11]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 11:11:20]select * from `article` where `id` > ? order by `insert_at` desc
+[2018-03-24 11:11:20]select count(*) as aggregate from `article`
+[2018-03-24 11:11:20]select * from `article` limit 10 offset 0
+[2018-03-24 11:11:26]select count(*) as aggregate from `users`
+[2018-03-24 11:11:26]select * from `users` limit 10 offset 0
+[2018-03-24 11:12:53]select count(*) as aggregate from `users`
+[2018-03-24 11:12:53]select * from `users` limit 10 offset 0
+[2018-03-24 11:12:59]select count(*) as aggregate from `users`
+[2018-03-24 11:12:59]select * from `users` limit 10 offset 10
+[2018-03-24 11:13:01]select count(*) as aggregate from `users`
+[2018-03-24 11:13:01]select * from `users` limit 10 offset 20
+[2018-03-24 11:13:15]select count(*) as aggregate from `users`
+[2018-03-24 11:13:15]select * from `users` limit 10 offset 20
+[2018-03-24 11:13:28]select count(*) as aggregate from `users`
+[2018-03-24 11:13:28]select * from `users` limit 10 offset 20
+[2018-03-24 11:13:38]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 11:16:01]select count(*) as aggregate from `article`
+[2018-03-24 11:16:01]select * from `article` limit 10 offset 0
+[2018-03-24 11:16:04]select count(*) as aggregate from `article`
+[2018-03-24 11:16:04]select * from `article` limit 10 offset 0
+[2018-03-24 11:21:21]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 11:22:27]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 11:23:06]select count(*) as aggregate from `article`
+[2018-03-24 11:23:06]select * from `article` limit 10 offset 0
+[2018-03-24 11:23:19]select count(*) as aggregate from `article` where `intro` like ? or `details` like ?
+[2018-03-24 11:23:19]select * from `article` where `intro` like ? or `details` like ? limit 10 offset 0
+[2018-03-24 11:26:18]select count(*) as aggregate from `goods`
+[2018-03-24 11:26:18]select * from `goods` limit 10 offset 0
+[2018-03-24 11:27:18]select count(*) as aggregate from `goods`
+[2018-03-24 11:27:18]select * from `goods` limit 10 offset 0
+[2018-03-24 11:28:52]select count(*) as aggregate from `goods`
+[2018-03-24 11:28:52]select * from `goods` limit 10 offset 0
+[2018-03-24 11:32:35]select count(*) as aggregate from `goods`
+[2018-03-24 11:32:35]select * from `goods` limit 10 offset 0
+[2018-03-24 11:33:04]select count(*) as aggregate from `goods`
+[2018-03-24 11:33:04]select * from `goods` limit 10 offset 0
+[2018-03-24 11:33:29]select count(*) as aggregate from `article`
+[2018-03-24 11:33:29]select * from `article` limit 10 offset 0
+[2018-03-24 11:33:30]select count(*) as aggregate from `goods`
+[2018-03-24 11:33:30]select * from `goods` limit 10 offset 0
+[2018-03-24 11:39:31]select count(*) as aggregate from `goods`
+[2018-03-24 11:39:31]select * from `goods` limit 10 offset 0
+[2018-03-24 11:40:53]select count(*) as aggregate from `goods`
+[2018-03-24 11:40:53]select * from `goods` limit 10 offset 0
+[2018-03-24 11:41:14]select count(*) as aggregate from `goods`
+[2018-03-24 11:41:14]select * from `goods` limit 10 offset 0
+[2018-03-24 17:38:56]select * from admin where username=?
+[2018-03-24 17:38:58]select count(*) as aggregate from `users`
+[2018-03-24 17:38:58]select * from `users` limit 10 offset 0
+[2018-03-24 17:39:00]select count(*) as aggregate from `goods`
+[2018-03-24 17:39:00]select * from `goods` limit 10 offset 0
+[2018-03-24 17:41:03]select count(*) as aggregate from `goods`
+[2018-03-24 17:41:03]select * from `goods` limit 10 offset 0
+[2018-03-24 17:41:12]select count(*) as aggregate from `goods`
+[2018-03-24 17:41:12]select * from `goods` limit 10 offset 0
+[2018-03-24 17:42:19]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:43:00]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:43:31]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:43:31]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:43:36]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:43:37]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:43:55]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:43:56]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:43:59]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:44:14]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:44:14]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:44:16]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:44:20]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:44:20]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:44:45]select * from admin where username=?
+[2018-03-24 17:44:47]select count(*) as aggregate from `users`
+[2018-03-24 17:44:47]select * from `users` limit 10 offset 0
+[2018-03-24 17:44:51]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:45:12]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:45:12]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:45:12]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:45:15]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:45:22]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:45:22]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:45:23]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:45:24]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:45:30]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:45:30]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:45:30]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:46:03]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:46:09]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:46:09]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:46:10]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:46:11]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:46:34]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:46:34]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:46:34]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:46:36]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:01]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:47:01]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:47:01]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:04]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:11]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:47:11]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:47:11]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:13]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:38]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:47:38]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:47:39]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:40]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:52]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:47:52]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:47:52]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:47:55]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:48:27]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:48:27]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:48:27]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:48:29]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:48:36]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:48:36]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:48:36]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:48:39]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:48:49]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:48:49]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:48:49]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:48:58]select count(*) as aggregate from `goods`
+[2018-03-24 17:48:58]select * from `goods` limit 10 offset 0
+[2018-03-24 17:52:12]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:52:31]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:52:31]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:52:31]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:52:34]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:53:00]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:53:00]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:53:00]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:53:03]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:53:14]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:53:14]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:53:14]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:53:24]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 17:53:33]select * from `cates` where `id` = ? limit 1
+[2018-03-24 17:53:33]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-24 17:53:33]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-24 19:00:49]select count(*) as aggregate from `goods`
+[2018-03-24 19:00:49]select * from `goods` limit 10 offset 0
+[2018-03-24 19:05:17]select count(*) as aggregate from `goods`
+[2018-03-24 19:05:17]select * from `goods` limit 10 offset 0
+[2018-03-24 19:05:17]select goods.cate_id,cates.name,cates.path from goods,cates where goods.cate_id=cates.id
+[2018-03-24 19:08:53]select count(*) as aggregate from `goods`
+[2018-03-24 19:08:53]select * from `goods` limit 10 offset 0
+[2018-03-24 19:09:44]select count(*) as aggregate from `goods`
+[2018-03-24 19:09:44]select * from `goods` limit 10 offset 0
+[2018-03-24 19:11:08]select count(*) as aggregate from `goods`
+[2018-03-24 19:11:08]select * from `goods` limit 10 offset 0
+[2018-03-24 19:12:55]select count(*) as aggregate from `goods`
+[2018-03-24 19:12:55]select * from `goods` limit 10 offset 0
+[2018-03-24 19:12:55]select name from cates where id=12
+[2018-03-24 19:12:55]select name from cates where id=6
+[2018-03-24 19:12:55]select name from cates where id=3
+[2018-03-24 19:12:55]select name from cates where id=10
+[2018-03-24 19:12:55]select name from cates where id=0
+[2018-03-24 19:12:55]select name from cates where id=6
+[2018-03-24 19:12:55]select name from cates where id=16
+[2018-03-24 19:12:55]select name from cates where id=8
+[2018-03-24 19:12:55]select name from cates where id=15
+[2018-03-24 19:12:55]select name from cates where id=5
+[2018-03-24 19:13:15]select count(*) as aggregate from `goods`
+[2018-03-24 19:13:15]select * from `goods` limit 10 offset 0
+[2018-03-24 19:13:15]select name from cates where id=12
+[2018-03-24 19:13:39]select count(*) as aggregate from `goods`
+[2018-03-24 19:13:39]select * from `goods` limit 10 offset 0
+[2018-03-24 19:13:39]select name from cates where id=12
+[2018-03-24 19:13:56]select count(*) as aggregate from `goods`
+[2018-03-24 19:13:56]select * from `goods` limit 10 offset 0
+[2018-03-24 19:13:56]select name from cates where id=12
+[2018-03-24 19:14:09]select count(*) as aggregate from `goods`
+[2018-03-24 19:14:09]select * from `goods` limit 10 offset 0
+[2018-03-24 19:14:09]select name from cates where id=12
+[2018-03-24 19:14:09]select name from cates where id=6
+[2018-03-24 19:14:09]select name from cates where id=3
+[2018-03-24 19:14:09]select name from cates where id=10
+[2018-03-24 19:14:09]select name from cates where id=0
+[2018-03-24 19:14:15]select count(*) as aggregate from `goods`
+[2018-03-24 19:14:15]select * from `goods` limit 10 offset 0
+[2018-03-24 19:14:15]select name from cates where id=12
+[2018-03-24 19:14:15]select name from cates where id=6
+[2018-03-24 19:14:15]select name from cates where id=3
+[2018-03-24 19:14:15]select name from cates where id=10
+[2018-03-24 19:14:15]select name from cates where id=0
+[2018-03-24 19:14:15]select name from cates where id=6
+[2018-03-24 19:14:15]select name from cates where id=16
+[2018-03-24 19:14:15]select name from cates where id=8
+[2018-03-24 19:14:15]select name from cates where id=15
+[2018-03-24 19:14:15]select name from cates where id=5
+[2018-03-24 19:15:13]select count(*) as aggregate from `goods`
+[2018-03-24 19:15:13]select * from `goods` limit 10 offset 0
+[2018-03-24 19:15:13]select name from cates where id=12
+[2018-03-24 19:15:13]select name from cates where id=6
+[2018-03-24 19:15:13]select name from cates where id=3
+[2018-03-24 19:15:13]select name from cates where id=10
+[2018-03-24 19:15:13]select name from cates where id=0
+[2018-03-24 19:15:50]select count(*) as aggregate from `goods`
+[2018-03-24 19:15:50]select * from `goods` limit 10 offset 0
+[2018-03-24 19:15:50]select name from cates where id=12
+[2018-03-24 19:15:50]select name from cates where id=6
+[2018-03-24 19:15:50]select name from cates where id=3
+[2018-03-24 19:15:50]select name from cates where id=10
+[2018-03-24 19:15:50]select name from cates where id=0
+[2018-03-24 19:15:50]select name from cates where id=6
+[2018-03-24 19:15:50]select name from cates where id=16
+[2018-03-24 19:15:50]select name from cates where id=8
+[2018-03-24 19:15:50]select name from cates where id=15
+[2018-03-24 19:15:50]select name from cates where id=5
+[2018-03-24 19:17:51]select count(*) as aggregate from `goods`
+[2018-03-24 19:17:51]select * from `goods` limit 10 offset 0
+[2018-03-24 19:17:51]select name from cates where id=12
+[2018-03-24 19:17:51]select name from cates where id=6
+[2018-03-24 19:17:51]select name from cates where id=3
+[2018-03-24 19:17:51]select name from cates where id=10
+[2018-03-24 19:17:51]select name from cates where id=0
+[2018-03-24 19:18:04]select count(*) as aggregate from `goods`
+[2018-03-24 19:18:04]select * from `goods` limit 10 offset 0
+[2018-03-24 19:18:04]select name from cates where id=12
+[2018-03-24 19:18:04]select name from cates where id=6
+[2018-03-24 19:18:04]select name from cates where id=3
+[2018-03-24 19:18:04]select name from cates where id=10
+[2018-03-24 19:18:04]select name from cates where id=0
+[2018-03-24 19:18:04]select name from cates where id=6
+[2018-03-24 19:18:04]select name from cates where id=16
+[2018-03-24 19:18:04]select name from cates where id=8
+[2018-03-24 19:18:04]select name from cates where id=15
+[2018-03-24 19:18:04]select name from cates where id=5
+[2018-03-24 19:18:36]select count(*) as aggregate from `goods`
+[2018-03-24 19:18:36]select * from `goods` limit 10 offset 0
+[2018-03-24 19:18:36]select name from cates where id=12
+[2018-03-24 19:18:49]select count(*) as aggregate from `goods`
+[2018-03-24 19:18:49]select * from `goods` limit 10 offset 0
+[2018-03-24 19:18:49]select name from cates where id=12
+[2018-03-24 19:19:24]select count(*) as aggregate from `goods`
+[2018-03-24 19:19:24]select * from `goods` limit 10 offset 0
+[2018-03-24 19:19:24]select name from cates where id=12
+[2018-03-24 19:19:24]select name from cates where id=6
+[2018-03-24 19:19:24]select name from cates where id=3
+[2018-03-24 19:19:24]select name from cates where id=10
+[2018-03-24 19:19:24]select name from cates where id=0
+[2018-03-24 19:19:51]select count(*) as aggregate from `goods`
+[2018-03-24 19:19:51]select * from `goods` limit 10 offset 0
+[2018-03-24 19:19:51]select name from cates where id=12
+[2018-03-24 19:19:51]select name from cates where id=6
+[2018-03-24 19:19:51]select name from cates where id=3
+[2018-03-24 19:19:51]select name from cates where id=10
+[2018-03-24 19:19:51]select name from cates where id=0
+[2018-03-24 19:19:51]select name from cates where id=6
+[2018-03-24 19:19:51]select name from cates where id=16
+[2018-03-24 19:19:51]select name from cates where id=8
+[2018-03-24 19:19:51]select name from cates where id=15
+[2018-03-24 19:19:51]select name from cates where id=5
+[2018-03-24 19:21:45]select count(*) as aggregate from `goods`
+[2018-03-24 19:21:45]select * from `goods` limit 10 offset 0
+[2018-03-24 19:21:45]select name from cates where id=12
+[2018-03-24 19:21:45]select name from cates where id=6
+[2018-03-24 19:21:45]select name from cates where id=3
+[2018-03-24 19:21:45]select name from cates where id=10
+[2018-03-24 19:21:45]select name from cates where id=0
+[2018-03-24 19:21:45]select name from cates where id=6
+[2018-03-24 19:21:45]select name from cates where id=16
+[2018-03-24 19:21:45]select name from cates where id=8
+[2018-03-24 19:21:45]select name from cates where id=15
+[2018-03-24 19:21:45]select name from cates where id=5
+[2018-03-24 19:22:03]select count(*) as aggregate from `goods`
+[2018-03-24 19:22:03]select * from `goods` limit 10 offset 0
+[2018-03-24 19:22:03]select name from cates where id=12
+[2018-03-24 19:22:03]select name from cates where id=6
+[2018-03-24 19:22:03]select name from cates where id=3
+[2018-03-24 19:22:03]select name from cates where id=10
+[2018-03-24 19:22:03]select name from cates where id=0
+[2018-03-24 19:22:03]select name from cates where id=6
+[2018-03-24 19:22:03]select name from cates where id=16
+[2018-03-24 19:22:03]select name from cates where id=8
+[2018-03-24 19:22:03]select name from cates where id=15
+[2018-03-24 19:22:03]select name from cates where id=5
+[2018-03-24 19:22:10]select count(*) as aggregate from `goods`
+[2018-03-24 19:22:10]select * from `goods` limit 10 offset 0
+[2018-03-24 19:22:10]select name from cates where id=12
+[2018-03-24 19:22:10]select name from cates where id=6
+[2018-03-24 19:22:10]select name from cates where id=3
+[2018-03-24 19:22:10]select name from cates where id=10
+[2018-03-24 19:22:10]select name from cates where id=0
+[2018-03-24 19:22:10]select name from cates where id=6
+[2018-03-24 19:22:10]select name from cates where id=16
+[2018-03-24 19:22:10]select name from cates where id=8
+[2018-03-24 19:22:10]select name from cates where id=15
+[2018-03-24 19:22:10]select name from cates where id=5
+[2018-03-24 19:22:12]select count(*) as aggregate from `goods`
+[2018-03-24 19:22:12]select * from `goods` limit 10 offset 0
+[2018-03-24 19:22:12]select name from cates where id=12
+[2018-03-24 19:22:12]select name from cates where id=6
+[2018-03-24 19:22:12]select name from cates where id=3
+[2018-03-24 19:22:12]select name from cates where id=10
+[2018-03-24 19:22:12]select name from cates where id=0
+[2018-03-24 19:22:12]select name from cates where id=6
+[2018-03-24 19:22:12]select name from cates where id=16
+[2018-03-24 19:22:12]select name from cates where id=8
+[2018-03-24 19:22:12]select name from cates where id=15
+[2018-03-24 19:22:12]select name from cates where id=5
+[2018-03-24 19:22:16]select count(*) as aggregate from `goods`
+[2018-03-24 19:22:16]select * from `goods` limit 10 offset 0
+[2018-03-24 19:22:16]select name from cates where id=12
+[2018-03-24 19:22:16]select name from cates where id=6
+[2018-03-24 19:22:16]select name from cates where id=3
+[2018-03-24 19:22:16]select name from cates where id=10
+[2018-03-24 19:22:16]select name from cates where id=0
+[2018-03-24 19:22:16]select name from cates where id=6
+[2018-03-24 19:22:16]select name from cates where id=16
+[2018-03-24 19:22:16]select name from cates where id=8
+[2018-03-24 19:22:16]select name from cates where id=15
+[2018-03-24 19:22:16]select name from cates where id=5
+[2018-03-24 22:37:22]select * from admin where username=?
+[2018-03-24 22:37:24]select count(*) as aggregate from `users`
+[2018-03-24 22:37:24]select * from `users` limit 10 offset 0
+[2018-03-24 22:37:26]select count(*) as aggregate from `goods`
+[2018-03-24 22:37:26]select * from `goods` limit 10 offset 0
+[2018-03-24 22:37:26]select name from cates where id=12
+[2018-03-24 22:37:26]select name from cates where id=6
+[2018-03-24 22:37:26]select name from cates where id=3
+[2018-03-24 22:37:26]select name from cates where id=10
+[2018-03-24 22:37:26]select name from cates where id=0
+[2018-03-24 22:37:26]select name from cates where id=6
+[2018-03-24 22:37:26]select name from cates where id=16
+[2018-03-24 22:37:26]select name from cates where id=8
+[2018-03-24 22:37:26]select name from cates where id=15
+[2018-03-24 22:37:26]select name from cates where id=5
+[2018-03-24 22:37:56]select count(*) as aggregate from `goods`
+[2018-03-24 22:37:56]select * from `goods` limit 10 offset 0
+[2018-03-24 22:37:56]select name from cates where id=12
+[2018-03-24 22:38:13]select count(*) as aggregate from `goods`
+[2018-03-24 22:38:13]select * from `goods` limit 10 offset 0
+[2018-03-24 22:38:13]select name from cates where id=12
+[2018-03-24 22:38:28]select count(*) as aggregate from `goods`
+[2018-03-24 22:38:28]select * from `goods` limit 10 offset 0
+[2018-03-24 22:38:28]select name from cates where id=12
+[2018-03-24 22:38:28]select name from cates where id=6
+[2018-03-24 22:38:28]select name from cates where id=3
+[2018-03-24 22:38:28]select name from cates where id=10
+[2018-03-24 22:38:28]select name from cates where id=0
+[2018-03-24 22:38:39]select count(*) as aggregate from `goods`
+[2018-03-24 22:38:39]select * from `goods` limit 10 offset 0
+[2018-03-24 22:38:39]select name from cates where id=12
+[2018-03-24 22:38:39]select name from cates where id=6
+[2018-03-24 22:38:39]select name from cates where id=3
+[2018-03-24 22:38:39]select name from cates where id=10
+[2018-03-24 22:38:39]select name from cates where id=0
+[2018-03-24 22:38:40]select count(*) as aggregate from `goods`
+[2018-03-24 22:38:40]select * from `goods` limit 10 offset 0
+[2018-03-24 22:38:40]select name from cates where id=12
+[2018-03-24 22:38:40]select name from cates where id=6
+[2018-03-24 22:38:40]select name from cates where id=3
+[2018-03-24 22:38:40]select name from cates where id=10
+[2018-03-24 22:38:40]select name from cates where id=0
+[2018-03-24 22:38:41]select count(*) as aggregate from `goods`
+[2018-03-24 22:38:41]select * from `goods` limit 10 offset 0
+[2018-03-24 22:38:41]select name from cates where id=12
+[2018-03-24 22:38:41]select name from cates where id=6
+[2018-03-24 22:38:41]select name from cates where id=3
+[2018-03-24 22:38:41]select name from cates where id=10
+[2018-03-24 22:38:41]select name from cates where id=0
+[2018-03-24 22:39:03]select count(*) as aggregate from `goods`
+[2018-03-24 22:39:03]select * from `goods` limit 10 offset 0
+[2018-03-24 22:39:03]select name from cates where id=12
+[2018-03-24 22:39:13]select count(*) as aggregate from `goods`
+[2018-03-24 22:39:13]select * from `goods` limit 10 offset 0
+[2018-03-24 22:39:13]select name from cates where id=12
+[2018-03-24 22:39:38]select count(*) as aggregate from `goods`
+[2018-03-24 22:39:38]select * from `goods` limit 10 offset 0
+[2018-03-24 22:39:38]select name from cates where id=12
+[2018-03-24 22:39:38]select name from cates where id=6
+[2018-03-24 22:39:38]select name from cates where id=3
+[2018-03-24 22:39:38]select name from cates where id=10
+[2018-03-24 22:39:38]select name from cates where id=0
+[2018-03-24 22:40:02]select count(*) as aggregate from `goods`
+[2018-03-24 22:40:02]select * from `goods` limit 10 offset 0
+[2018-03-24 22:40:02]select name from cates where id=12
+[2018-03-24 22:40:02]select name from cates where id=6
+[2018-03-24 22:40:02]select name from cates where id=3
+[2018-03-24 22:40:02]select name from cates where id=10
+[2018-03-24 22:40:02]select name from cates where id=0
+[2018-03-24 22:40:04]select count(*) as aggregate from `goods`
+[2018-03-24 22:40:04]select * from `goods` limit 10 offset 0
+[2018-03-24 22:40:04]select name from cates where id=12
+[2018-03-24 22:40:04]select name from cates where id=6
+[2018-03-24 22:40:04]select name from cates where id=3
+[2018-03-24 22:40:04]select name from cates where id=10
+[2018-03-24 22:40:04]select name from cates where id=0
+[2018-03-24 22:40:39]select count(*) as aggregate from `goods`
+[2018-03-24 22:40:39]select * from `goods` limit 10 offset 0
+[2018-03-24 22:40:39]select name from cates where id=12
+[2018-03-24 22:41:03]select count(*) as aggregate from `goods`
+[2018-03-24 22:41:03]select * from `goods` limit 10 offset 0
+[2018-03-24 22:41:25]select count(*) as aggregate from `goods`
+[2018-03-24 22:41:25]select * from `goods` limit 10 offset 0
+[2018-03-24 22:41:40]select count(*) as aggregate from `goods`
+[2018-03-24 22:41:40]select * from `goods` limit 10 offset 0
+[2018-03-24 22:41:54]select count(*) as aggregate from `goods`
+[2018-03-24 22:41:54]select * from `goods` limit 10 offset 0
+[2018-03-24 22:41:54]select name from cates where id=12
+[2018-03-24 22:42:06]select count(*) as aggregate from `goods`
+[2018-03-24 22:42:06]select * from `goods` limit 10 offset 0
+[2018-03-24 22:42:54]select count(*) as aggregate from `goods`
+[2018-03-24 22:42:54]select * from `goods` limit 10 offset 0
+[2018-03-24 22:42:54]select name from cates where id=12
+[2018-03-24 22:43:03]select count(*) as aggregate from `goods`
+[2018-03-24 22:43:03]select * from `goods` limit 10 offset 0
+[2018-03-24 22:43:03]select name from cates where id=12
+[2018-03-24 22:43:03]select name from cates where id=6
+[2018-03-24 22:43:03]select name from cates where id=3
+[2018-03-24 22:43:03]select name from cates where id=10
+[2018-03-24 22:43:03]select name from cates where id=0
+[2018-03-24 22:43:03]select name from cates where id=6
+[2018-03-24 22:43:03]select name from cates where id=16
+[2018-03-24 22:43:03]select name from cates where id=8
+[2018-03-24 22:43:03]select name from cates where id=15
+[2018-03-24 22:43:03]select name from cates where id=5
+[2018-03-24 22:43:20]select count(*) as aggregate from `goods`
+[2018-03-24 22:43:20]select * from `goods` limit 10 offset 0
+[2018-03-24 22:43:20]select name from cates where id=12
+[2018-03-24 22:43:20]select name from cates where id=6
+[2018-03-24 22:43:20]select name from cates where id=3
+[2018-03-24 22:43:20]select name from cates where id=10
+[2018-03-24 22:43:20]select name from cates where id=0
+[2018-03-24 22:44:36]select count(*) as aggregate from `goods`
+[2018-03-24 22:44:36]select * from `goods` limit 10 offset 0
+[2018-03-24 22:44:36]select name from cates where id=12
+[2018-03-24 22:45:45]select count(*) as aggregate from `goods`
+[2018-03-24 22:45:45]select * from `goods` limit 10 offset 0
+[2018-03-24 22:46:29]select count(*) as aggregate from `goods`
+[2018-03-24 22:46:29]select * from `goods` limit 10 offset 0
+[2018-03-24 22:46:29]select name from cates where id=12
+[2018-03-24 22:46:29]select name from cates where id=6
+[2018-03-24 22:46:29]select name from cates where id=3
+[2018-03-24 22:46:29]select name from cates where id=10
+[2018-03-24 22:46:29]select name from cates where id=0
+[2018-03-24 22:46:48]select count(*) as aggregate from `goods`
+[2018-03-24 22:46:48]select * from `goods` limit 10 offset 0
+[2018-03-24 22:46:48]select name from cates where id=12
+[2018-03-24 22:46:48]select name from cates where id=6
+[2018-03-24 22:46:48]select name from cates where id=3
+[2018-03-24 22:46:48]select name from cates where id=10
+[2018-03-24 22:46:48]select name from cates where id=0
+[2018-03-24 22:46:49]select count(*) as aggregate from `goods`
+[2018-03-24 22:46:49]select * from `goods` limit 10 offset 0
+[2018-03-24 22:46:49]select name from cates where id=12
+[2018-03-24 22:46:49]select name from cates where id=6
+[2018-03-24 22:46:49]select name from cates where id=3
+[2018-03-24 22:46:49]select name from cates where id=10
+[2018-03-24 22:46:49]select name from cates where id=0
+[2018-03-24 22:46:56]select count(*) as aggregate from `goods`
+[2018-03-24 22:46:56]select * from `goods` limit 10 offset 0
+[2018-03-24 22:46:56]select name from cates where id=12
+[2018-03-24 22:46:56]select name from cates where id=6
+[2018-03-24 22:46:56]select name from cates where id=3
+[2018-03-24 22:46:56]select name from cates where id=10
+[2018-03-24 22:46:56]select name from cates where id=0
+[2018-03-24 22:46:56]select name from cates where id=6
+[2018-03-24 22:46:56]select name from cates where id=16
+[2018-03-24 22:46:56]select name from cates where id=8
+[2018-03-24 22:46:56]select name from cates where id=15
+[2018-03-24 22:46:56]select name from cates where id=5
+[2018-03-24 22:48:10]select count(*) as aggregate from `goods`
+[2018-03-24 22:48:10]select * from `goods` limit 10 offset 0
+[2018-03-24 22:48:10]select name from cates where id=12
+[2018-03-24 22:48:10]select name from cates where id=6
+[2018-03-24 22:48:10]select name from cates where id=3
+[2018-03-24 22:48:10]select name from cates where id=10
+[2018-03-24 22:48:10]select name from cates where id=0
+[2018-03-24 22:48:10]select name from cates where id=6
+[2018-03-24 22:48:10]select name from cates where id=16
+[2018-03-24 22:48:10]select name from cates where id=8
+[2018-03-24 22:48:10]select name from cates where id=15
+[2018-03-24 22:48:10]select name from cates where id=5
+[2018-03-24 22:48:34]select count(*) as aggregate from `goods`
+[2018-03-24 22:48:34]select * from `goods` limit 10 offset 0
+[2018-03-24 22:48:34]select name from cates where id=12
+[2018-03-24 22:48:34]select name from cates where id=6
+[2018-03-24 22:48:34]select name from cates where id=3
+[2018-03-24 22:48:34]select name from cates where id=10
+[2018-03-24 22:48:34]select name from cates where id=0
+[2018-03-24 22:48:34]select name from cates where id=6
+[2018-03-24 22:48:34]select name from cates where id=16
+[2018-03-24 22:48:34]select name from cates where id=8
+[2018-03-24 22:48:34]select name from cates where id=15
+[2018-03-24 22:48:34]select name from cates where id=5
+[2018-03-24 22:48:39]select count(*) as aggregate from `goods`
+[2018-03-24 22:48:39]select * from `goods` limit 10 offset 0
+[2018-03-24 22:48:39]select name from cates where id=12
+[2018-03-24 22:48:39]select name from cates where id=6
+[2018-03-24 22:48:39]select name from cates where id=3
+[2018-03-24 22:48:39]select name from cates where id=10
+[2018-03-24 22:48:39]select name from cates where id=0
+[2018-03-24 22:48:39]select name from cates where id=6
+[2018-03-24 22:48:39]select name from cates where id=16
+[2018-03-24 22:48:39]select name from cates where id=8
+[2018-03-24 22:48:39]select name from cates where id=15
+[2018-03-24 22:48:39]select name from cates where id=5
+[2018-03-24 22:48:47]select count(*) as aggregate from `goods`
+[2018-03-24 22:48:47]select * from `goods` limit 10 offset 0
+[2018-03-24 22:48:47]select name from cates where id=12
+[2018-03-24 22:48:47]select name from cates where id=6
+[2018-03-24 22:48:47]select name from cates where id=3
+[2018-03-24 22:48:47]select name from cates where id=10
+[2018-03-24 22:48:47]select name from cates where id=0
+[2018-03-24 22:48:47]select name from cates where id=6
+[2018-03-24 22:48:47]select name from cates where id=16
+[2018-03-24 22:48:47]select name from cates where id=8
+[2018-03-24 22:48:47]select name from cates where id=15
+[2018-03-24 22:48:47]select name from cates where id=5
+[2018-03-24 22:50:00]select count(*) as aggregate from `goods`
+[2018-03-24 22:50:00]select * from `goods` limit 10 offset 0
+[2018-03-24 22:50:00]select name from cates where id=12
+[2018-03-24 22:50:00]select name from cates where id=6
+[2018-03-24 22:50:00]select name from cates where id=3
+[2018-03-24 22:50:00]select name from cates where id=10
+[2018-03-24 22:50:00]select name from cates where id=0
+[2018-03-24 22:50:00]select name from cates where id=6
+[2018-03-24 22:50:00]select name from cates where id=16
+[2018-03-24 22:50:00]select name from cates where id=8
+[2018-03-24 22:50:00]select name from cates where id=15
+[2018-03-24 22:50:00]select name from cates where id=5
+[2018-03-24 22:52:21]select count(*) as aggregate from `goods`
+[2018-03-24 22:52:21]select * from `goods` limit 10 offset 0
+[2018-03-24 22:52:21]select name from cates where id=12
+[2018-03-24 22:52:21]select name from cates where id=6
+[2018-03-24 22:52:21]select name from cates where id=3
+[2018-03-24 22:52:21]select name from cates where id=10
+[2018-03-24 22:52:21]select name from cates where id=0
+[2018-03-24 22:52:30]select count(*) as aggregate from `goods`
+[2018-03-24 22:52:30]select * from `goods` limit 10 offset 0
+[2018-03-24 22:52:30]select name from cates where id=12
+[2018-03-24 22:52:30]select name from cates where id=6
+[2018-03-24 22:52:30]select name from cates where id=3
+[2018-03-24 22:52:30]select name from cates where id=10
+[2018-03-24 22:52:30]select name from cates where id=0
+[2018-03-24 22:52:30]select name from cates where id=6
+[2018-03-24 22:52:30]select name from cates where id=16
+[2018-03-24 22:52:30]select name from cates where id=8
+[2018-03-24 22:52:30]select name from cates where id=15
+[2018-03-24 22:52:30]select name from cates where id=5
+[2018-03-24 22:53:41]select count(*) as aggregate from `goods`
+[2018-03-24 22:53:41]select * from `goods` limit 10 offset 0
+[2018-03-24 22:53:41]select name from cates where id=12
+[2018-03-24 22:53:41]select name from cates where id=6
+[2018-03-24 22:53:41]select name from cates where id=3
+[2018-03-24 22:53:41]select name from cates where id=10
+[2018-03-24 22:53:41]select name from cates where id=0
+[2018-03-24 22:53:41]select name from cates where id=6
+[2018-03-24 22:53:41]select name from cates where id=16
+[2018-03-24 22:53:41]select name from cates where id=8
+[2018-03-24 22:53:41]select name from cates where id=15
+[2018-03-24 22:53:41]select name from cates where id=5
+[2018-03-24 22:54:12]select count(*) as aggregate from `goods`
+[2018-03-24 22:54:12]select * from `goods` limit 10 offset 0
+[2018-03-24 22:54:12]select name from cates where id=12
+[2018-03-24 22:54:12]select name from cates where id=6
+[2018-03-24 22:54:12]select name from cates where id=3
+[2018-03-24 22:54:12]select name from cates where id=10
+[2018-03-24 22:54:12]select name from cates where id=0
+[2018-03-24 22:54:12]select name from cates where id=6
+[2018-03-24 22:54:12]select name from cates where id=16
+[2018-03-24 22:54:12]select name from cates where id=8
+[2018-03-24 22:54:12]select name from cates where id=15
+[2018-03-24 22:54:12]select name from cates where id=5
+[2018-03-24 22:54:13]select count(*) as aggregate from `goods`
+[2018-03-24 22:54:13]select * from `goods` limit 10 offset 0
+[2018-03-24 22:54:13]select name from cates where id=12
+[2018-03-24 22:54:13]select name from cates where id=6
+[2018-03-24 22:54:13]select name from cates where id=3
+[2018-03-24 22:54:13]select name from cates where id=10
+[2018-03-24 22:54:13]select name from cates where id=0
+[2018-03-24 22:54:13]select name from cates where id=6
+[2018-03-24 22:54:13]select name from cates where id=16
+[2018-03-24 22:54:13]select name from cates where id=8
+[2018-03-24 22:54:13]select name from cates where id=15
+[2018-03-24 22:54:13]select name from cates where id=5
+[2018-03-24 22:54:57]select count(*) as aggregate from `goods`
+[2018-03-24 22:54:57]select * from `goods` limit 10 offset 0
+[2018-03-24 22:54:57]select name from cates where id=12
+[2018-03-24 22:54:57]select name from cates where id=6
+[2018-03-24 22:54:57]select name from cates where id=3
+[2018-03-24 22:54:57]select name from cates where id=10
+[2018-03-24 22:54:57]select name from cates where id=0
+[2018-03-24 22:54:57]select name from cates where id=6
+[2018-03-24 22:54:57]select name from cates where id=16
+[2018-03-24 22:54:57]select name from cates where id=8
+[2018-03-24 22:54:57]select name from cates where id=15
+[2018-03-24 22:54:57]select name from cates where id=5
+[2018-03-24 22:54:58]select count(*) as aggregate from `goods`
+[2018-03-24 22:54:58]select * from `goods` limit 10 offset 0
+[2018-03-24 22:54:58]select name from cates where id=12
+[2018-03-24 22:54:58]select name from cates where id=6
+[2018-03-24 22:54:58]select name from cates where id=3
+[2018-03-24 22:54:58]select name from cates where id=10
+[2018-03-24 22:54:58]select name from cates where id=0
+[2018-03-24 22:54:58]select name from cates where id=6
+[2018-03-24 22:54:58]select name from cates where id=16
+[2018-03-24 22:54:58]select name from cates where id=8
+[2018-03-24 22:54:58]select name from cates where id=15
+[2018-03-24 22:54:58]select name from cates where id=5
+[2018-03-24 22:55:20]select count(*) as aggregate from `goods`
+[2018-03-24 22:55:20]select * from `goods` limit 10 offset 0
+[2018-03-24 22:55:20]select name from cates where id=12
+[2018-03-24 22:55:20]select name from cates where id=6
+[2018-03-24 22:55:20]select name from cates where id=3
+[2018-03-24 22:55:20]select name from cates where id=10
+[2018-03-24 22:55:20]select name from cates where id=0
+[2018-03-24 22:55:20]select name from cates where id=6
+[2018-03-24 22:55:20]select name from cates where id=16
+[2018-03-24 22:55:20]select name from cates where id=8
+[2018-03-24 22:55:20]select name from cates where id=15
+[2018-03-24 22:55:20]select name from cates where id=5
+[2018-03-24 22:56:47]select count(*) as aggregate from `goods`
+[2018-03-24 22:56:47]select * from `goods` limit 10 offset 0
+[2018-03-24 22:56:47]select name from cates where id=12
+[2018-03-24 22:56:47]select name from cates where id=6
+[2018-03-24 22:56:47]select name from cates where id=3
+[2018-03-24 22:56:47]select name from cates where id=10
+[2018-03-24 22:56:47]select name from cates where id=0
+[2018-03-24 22:56:47]select name from cates where id=6
+[2018-03-24 22:56:47]select name from cates where id=16
+[2018-03-24 22:56:47]select name from cates where id=8
+[2018-03-24 22:56:47]select name from cates where id=15
+[2018-03-24 22:56:47]select name from cates where id=5
+[2018-03-24 22:56:54]select count(*) as aggregate from `goods`
+[2018-03-24 22:56:54]select * from `goods` limit 10 offset 0
+[2018-03-24 22:56:54]select name from cates where id=12
+[2018-03-24 22:56:54]select name from cates where id=6
+[2018-03-24 22:56:54]select name from cates where id=3
+[2018-03-24 22:56:54]select name from cates where id=10
+[2018-03-24 22:56:54]select name from cates where id=0
+[2018-03-24 22:56:54]select name from cates where id=6
+[2018-03-24 22:56:54]select name from cates where id=16
+[2018-03-24 22:56:54]select name from cates where id=8
+[2018-03-24 22:56:54]select name from cates where id=15
+[2018-03-24 22:56:54]select name from cates where id=5
+[2018-03-24 22:57:34]select count(*) as aggregate from `goods`
+[2018-03-24 22:57:34]select * from `goods` limit 10 offset 0
+[2018-03-24 22:57:34]select name from cates where id=12
+[2018-03-24 22:57:34]select name from cates where id=6
+[2018-03-24 22:57:34]select name from cates where id=3
+[2018-03-24 22:57:34]select name from cates where id=10
+[2018-03-24 22:57:34]select name from cates where id=0
+[2018-03-24 22:57:34]select name from cates where id=6
+[2018-03-24 22:57:34]select name from cates where id=16
+[2018-03-24 22:57:34]select name from cates where id=8
+[2018-03-24 22:57:34]select name from cates where id=15
+[2018-03-24 22:57:34]select name from cates where id=5
+[2018-03-24 22:57:58]select count(*) as aggregate from `goods`
+[2018-03-24 22:57:58]select * from `goods` limit 10 offset 0
+[2018-03-24 22:57:58]select name from cates where id=12
+[2018-03-24 22:57:58]select name from cates where id=6
+[2018-03-24 22:57:58]select name from cates where id=3
+[2018-03-24 22:57:58]select name from cates where id=10
+[2018-03-24 22:57:58]select name from cates where id=0
+[2018-03-24 22:57:58]select name from cates where id=6
+[2018-03-24 22:57:58]select name from cates where id=16
+[2018-03-24 22:57:58]select name from cates where id=8
+[2018-03-24 22:57:58]select name from cates where id=15
+[2018-03-24 22:57:58]select name from cates where id=5
+[2018-03-24 22:58:29]select count(*) as aggregate from `goods`
+[2018-03-24 22:58:29]select * from `goods` limit 10 offset 0
+[2018-03-24 22:58:29]select name from cates where id=12
+[2018-03-24 22:58:29]select name from cates where id=6
+[2018-03-24 22:58:29]select name from cates where id=3
+[2018-03-24 22:58:29]select name from cates where id=10
+[2018-03-24 22:58:29]select name from cates where id=0
+[2018-03-24 22:58:29]select name from cates where id=6
+[2018-03-24 22:58:29]select name from cates where id=16
+[2018-03-24 22:58:29]select name from cates where id=8
+[2018-03-24 22:58:29]select name from cates where id=15
+[2018-03-24 22:58:29]select name from cates where id=5
+[2018-03-24 22:58:40]select count(*) as aggregate from `goods`
+[2018-03-24 22:58:40]select * from `goods` limit 10 offset 0
+[2018-03-24 22:58:40]select name from cates where id=12
+[2018-03-24 22:58:40]select name from cates where id=6
+[2018-03-24 22:58:40]select name from cates where id=3
+[2018-03-24 22:58:40]select name from cates where id=10
+[2018-03-24 22:58:40]select name from cates where id=0
+[2018-03-24 22:58:40]select name from cates where id=6
+[2018-03-24 22:58:40]select name from cates where id=16
+[2018-03-24 22:58:40]select name from cates where id=8
+[2018-03-24 22:58:40]select name from cates where id=15
+[2018-03-24 22:58:40]select name from cates where id=5
+[2018-03-24 22:59:20]select count(*) as aggregate from `goods`
+[2018-03-24 22:59:20]select * from `goods` limit 10 offset 0
+[2018-03-24 22:59:20]select name from cates where id=12
+[2018-03-24 22:59:20]select name from cates where id=6
+[2018-03-24 22:59:20]select name from cates where id=3
+[2018-03-24 22:59:20]select name from cates where id=10
+[2018-03-24 22:59:20]select name from cates where id=0
+[2018-03-24 22:59:20]select name from cates where id=6
+[2018-03-24 22:59:20]select name from cates where id=16
+[2018-03-24 22:59:20]select name from cates where id=8
+[2018-03-24 22:59:20]select name from cates where id=15
+[2018-03-24 22:59:20]select name from cates where id=5
+[2018-03-24 22:59:46]select count(*) as aggregate from `goods`
+[2018-03-24 22:59:46]select * from `goods` limit 10 offset 0
+[2018-03-24 22:59:46]select name from cates where id=12
+[2018-03-24 22:59:46]select name from cates where id=6
+[2018-03-24 22:59:46]select name from cates where id=3
+[2018-03-24 22:59:46]select name from cates where id=10
+[2018-03-24 22:59:46]select name from cates where id=0
+[2018-03-24 22:59:46]select name from cates where id=6
+[2018-03-24 22:59:46]select name from cates where id=16
+[2018-03-24 22:59:46]select name from cates where id=8
+[2018-03-24 22:59:46]select name from cates where id=15
+[2018-03-24 22:59:46]select name from cates where id=5
+[2018-03-24 22:59:57]select count(*) as aggregate from `goods`
+[2018-03-24 22:59:57]select * from `goods` limit 10 offset 0
+[2018-03-24 22:59:57]select name from cates where id=12
+[2018-03-24 22:59:57]select name from cates where id=6
+[2018-03-24 22:59:57]select name from cates where id=3
+[2018-03-24 22:59:57]select name from cates where id=10
+[2018-03-24 22:59:57]select name from cates where id=0
+[2018-03-24 22:59:57]select name from cates where id=6
+[2018-03-24 22:59:57]select name from cates where id=16
+[2018-03-24 22:59:57]select name from cates where id=8
+[2018-03-24 22:59:57]select name from cates where id=15
+[2018-03-24 22:59:57]select name from cates where id=5
+[2018-03-24 23:00:09]select count(*) as aggregate from `goods`
+[2018-03-24 23:00:09]select * from `goods` limit 10 offset 0
+[2018-03-24 23:00:09]select name from cates where id=12
+[2018-03-24 23:00:09]select name from cates where id=6
+[2018-03-24 23:00:09]select name from cates where id=3
+[2018-03-24 23:00:09]select name from cates where id=10
+[2018-03-24 23:00:09]select name from cates where id=0
+[2018-03-24 23:00:09]select name from cates where id=6
+[2018-03-24 23:00:09]select name from cates where id=16
+[2018-03-24 23:00:09]select name from cates where id=8
+[2018-03-24 23:00:09]select name from cates where id=15
+[2018-03-24 23:00:09]select name from cates where id=5
+[2018-03-24 23:00:09]select count(*) as aggregate from `goods`
+[2018-03-24 23:00:09]select * from `goods` limit 10 offset 0
+[2018-03-24 23:00:09]select name from cates where id=12
+[2018-03-24 23:00:09]select name from cates where id=6
+[2018-03-24 23:00:09]select name from cates where id=3
+[2018-03-24 23:00:09]select name from cates where id=10
+[2018-03-24 23:00:09]select name from cates where id=0
+[2018-03-24 23:00:09]select name from cates where id=6
+[2018-03-24 23:00:09]select name from cates where id=16
+[2018-03-24 23:00:09]select name from cates where id=8
+[2018-03-24 23:00:09]select name from cates where id=15
+[2018-03-24 23:00:09]select name from cates where id=5
+[2018-03-24 23:00:10]select count(*) as aggregate from `goods`
+[2018-03-24 23:00:10]select * from `goods` limit 10 offset 0
+[2018-03-24 23:00:10]select name from cates where id=12
+[2018-03-24 23:00:10]select name from cates where id=6
+[2018-03-24 23:00:10]select name from cates where id=3
+[2018-03-24 23:00:10]select name from cates where id=10
+[2018-03-24 23:00:10]select name from cates where id=0
+[2018-03-24 23:00:10]select name from cates where id=6
+[2018-03-24 23:00:10]select name from cates where id=16
+[2018-03-24 23:00:10]select name from cates where id=8
+[2018-03-24 23:00:10]select name from cates where id=15
+[2018-03-24 23:00:10]select name from cates where id=5
+[2018-03-24 23:00:10]select count(*) as aggregate from `goods`
+[2018-03-24 23:00:10]select * from `goods` limit 10 offset 0
+[2018-03-24 23:00:10]select name from cates where id=12
+[2018-03-24 23:00:10]select name from cates where id=6
+[2018-03-24 23:00:10]select name from cates where id=3
+[2018-03-24 23:00:10]select name from cates where id=10
+[2018-03-24 23:00:10]select name from cates where id=0
+[2018-03-24 23:00:10]select name from cates where id=6
+[2018-03-24 23:00:10]select name from cates where id=16
+[2018-03-24 23:00:10]select name from cates where id=8
+[2018-03-24 23:00:10]select name from cates where id=15
+[2018-03-24 23:00:10]select name from cates where id=5
+[2018-03-24 23:00:15]select count(*) as aggregate from `goods`
+[2018-03-24 23:00:15]select * from `goods` limit 10 offset 0
+[2018-03-24 23:00:15]select name from cates where id=12
+[2018-03-24 23:00:15]select name from cates where id=6
+[2018-03-24 23:00:15]select name from cates where id=3
+[2018-03-24 23:00:15]select name from cates where id=10
+[2018-03-24 23:00:15]select name from cates where id=0
+[2018-03-24 23:00:15]select name from cates where id=6
+[2018-03-24 23:00:15]select name from cates where id=16
+[2018-03-24 23:00:15]select name from cates where id=8
+[2018-03-24 23:00:15]select name from cates where id=15
+[2018-03-24 23:00:15]select name from cates where id=5
+[2018-03-24 23:01:35]select count(*) as aggregate from `goods`
+[2018-03-24 23:01:35]select * from `goods` limit 10 offset 0
+[2018-03-24 23:01:35]select name from cates where id=12
+[2018-03-24 23:01:35]select name from cates where id=6
+[2018-03-24 23:01:35]select name from cates where id=3
+[2018-03-24 23:01:35]select name from cates where id=10
+[2018-03-24 23:01:35]select name from cates where id=0
+[2018-03-24 23:01:35]select name from cates where id=6
+[2018-03-24 23:01:35]select name from cates where id=16
+[2018-03-24 23:01:35]select name from cates where id=8
+[2018-03-24 23:01:35]select name from cates where id=15
+[2018-03-24 23:01:35]select name from cates where id=5
+[2018-03-24 23:01:59]select count(*) as aggregate from `goods`
+[2018-03-24 23:01:59]select * from `goods` limit 10 offset 0
+[2018-03-24 23:01:59]select name from cates where id=12
+[2018-03-24 23:01:59]select name from cates where id=6
+[2018-03-24 23:01:59]select name from cates where id=3
+[2018-03-24 23:01:59]select name from cates where id=10
+[2018-03-24 23:01:59]select name from cates where id=0
+[2018-03-24 23:01:59]select name from cates where id=6
+[2018-03-24 23:01:59]select name from cates where id=16
+[2018-03-24 23:01:59]select name from cates where id=8
+[2018-03-24 23:01:59]select name from cates where id=15
+[2018-03-24 23:01:59]select name from cates where id=5
+[2018-03-24 23:03:03]select count(*) as aggregate from `goods`
+[2018-03-24 23:03:03]select * from `goods` limit 10 offset 0
+[2018-03-24 23:06:36]select count(*) as aggregate from `goods`
+[2018-03-24 23:06:36]select * from `goods` limit 10 offset 0
+[2018-03-24 23:06:36]select name from cates where id=12
+[2018-03-24 23:06:36]select name from cates where id=6
+[2018-03-24 23:06:36]select name from cates where id=3
+[2018-03-24 23:06:36]select name from cates where id=10
+[2018-03-24 23:06:36]select name from cates where id=1
+[2018-03-24 23:06:36]select name from cates where id=6
+[2018-03-24 23:06:36]select name from cates where id=16
+[2018-03-24 23:06:36]select name from cates where id=8
+[2018-03-24 23:06:36]select name from cates where id=15
+[2018-03-24 23:06:36]select name from cates where id=5
+[2018-03-24 23:07:17]select count(*) as aggregate from `goods`
+[2018-03-24 23:07:17]select * from `goods` limit 10 offset 0
+[2018-03-24 23:07:17]select name from cates where id=12
+[2018-03-24 23:07:17]select name from cates where id=6
+[2018-03-24 23:07:17]select name from cates where id=3
+[2018-03-24 23:07:17]select name from cates where id=10
+[2018-03-24 23:07:17]select name from cates where id=1
+[2018-03-24 23:07:17]select name from cates where id=6
+[2018-03-24 23:07:17]select name from cates where id=16
+[2018-03-24 23:07:17]select name from cates where id=8
+[2018-03-24 23:07:17]select name from cates where id=15
+[2018-03-24 23:07:17]select name from cates where id=5
+[2018-03-24 23:09:07]select count(*) as aggregate from `goods`
+[2018-03-24 23:09:07]select * from `goods` limit 10 offset 0
+[2018-03-24 23:09:07]select name from cates where id=12
+[2018-03-24 23:09:07]select name from cates where id=6
+[2018-03-24 23:09:07]select name from cates where id=3
+[2018-03-24 23:09:07]select name from cates where id=10
+[2018-03-24 23:09:07]select name from cates where id=1
+[2018-03-24 23:09:07]select name from cates where id=6
+[2018-03-24 23:09:07]select name from cates where id=16
+[2018-03-24 23:09:07]select name from cates where id=8
+[2018-03-24 23:09:07]select name from cates where id=15
+[2018-03-24 23:09:07]select name from cates where id=5
+[2018-03-24 23:09:10]select count(*) as aggregate from `goods`
+[2018-03-24 23:09:10]select * from `goods` limit 10 offset 10
+[2018-03-24 23:09:10]select name from cates where id=15
+[2018-03-24 23:09:10]select name from cates where id=8
+[2018-03-24 23:09:10]select name from cates where id=7
+[2018-03-24 23:09:10]select name from cates where id=8
+[2018-03-24 23:09:10]select name from cates where id=15
+[2018-03-24 23:09:10]select name from cates where id=3
+[2018-03-24 23:09:10]select name from cates where id=18
+[2018-03-24 23:09:10]select name from cates where id=8
+[2018-03-24 23:09:10]select name from cates where id=14
+[2018-03-24 23:09:10]select name from cates where id=9
+[2018-03-24 23:09:11]select count(*) as aggregate from `goods`
+[2018-03-24 23:09:11]select * from `goods` limit 10 offset 20
+[2018-03-24 23:09:11]select name from cates where id=7
+[2018-03-24 23:09:11]select name from cates where id=8
+[2018-03-24 23:09:11]select name from cates where id=17
+[2018-03-24 23:09:11]select name from cates where id=17
+[2018-03-24 23:09:11]select name from cates where id=1
+[2018-03-24 23:09:11]select name from cates where id=7
+[2018-03-24 23:09:11]select name from cates where id=14
+[2018-03-24 23:09:11]select name from cates where id=1
+[2018-03-24 23:09:11]select name from cates where id=7
+[2018-03-24 23:09:11]select name from cates where id=3
+[2018-03-24 23:09:13]select count(*) as aggregate from `goods`
+[2018-03-24 23:09:13]select * from `goods` limit 10 offset 10
+[2018-03-24 23:09:13]select name from cates where id=15
+[2018-03-24 23:09:13]select name from cates where id=8
+[2018-03-24 23:09:13]select name from cates where id=7
+[2018-03-24 23:09:13]select name from cates where id=8
+[2018-03-24 23:09:13]select name from cates where id=15
+[2018-03-24 23:09:13]select name from cates where id=3
+[2018-03-24 23:09:13]select name from cates where id=18
+[2018-03-24 23:09:13]select name from cates where id=8
+[2018-03-24 23:09:13]select name from cates where id=14
+[2018-03-24 23:09:13]select name from cates where id=9
+[2018-03-24 23:09:17]select count(*) as aggregate from `goods`
+[2018-03-24 23:09:17]select * from `goods` limit 10 offset 20
+[2018-03-24 23:09:17]select name from cates where id=7
+[2018-03-24 23:09:17]select name from cates where id=8
+[2018-03-24 23:09:17]select name from cates where id=17
+[2018-03-24 23:09:17]select name from cates where id=17
+[2018-03-24 23:09:17]select name from cates where id=1
+[2018-03-24 23:09:17]select name from cates where id=7
+[2018-03-24 23:09:17]select name from cates where id=14
+[2018-03-24 23:09:17]select name from cates where id=1
+[2018-03-24 23:09:17]select name from cates where id=7
+[2018-03-24 23:09:17]select name from cates where id=3
+[2018-03-24 23:09:22]select count(*) as aggregate from `goods` where `gName` like ? or `gDesc` like ?
+[2018-03-24 23:09:22]select * from `goods` where `gName` like ? or `gDesc` like ? limit 5 offset 0
+[2018-03-24 23:09:23]select name from cates where id=9
+[2018-03-24 23:09:23]select name from cates where id=7
+[2018-03-24 23:10:10]select count(*) as aggregate from `goods` where `gName` like ? or `gDesc` like ?
+[2018-03-24 23:10:10]select * from `goods` where `gName` like ? or `gDesc` like ? limit 5 offset 0
+[2018-03-24 23:10:10]select name from cates where id=9
+[2018-03-24 23:10:10]select name from cates where id=7
+[2018-03-24 23:10:16]select count(*) as aggregate from `goods`
+[2018-03-24 23:10:16]select * from `goods` limit 5 offset 0
+[2018-03-24 23:10:16]select name from cates where id=12
+[2018-03-24 23:10:16]select name from cates where id=6
+[2018-03-24 23:10:16]select name from cates where id=3
+[2018-03-24 23:10:16]select name from cates where id=10
+[2018-03-24 23:10:16]select name from cates where id=1
+[2018-03-24 23:10:19]select count(*) as aggregate from `goods`
+[2018-03-24 23:10:19]select * from `goods` limit 10 offset 0
+[2018-03-24 23:10:19]select name from cates where id=12
+[2018-03-24 23:10:19]select name from cates where id=6
+[2018-03-24 23:10:19]select name from cates where id=3
+[2018-03-24 23:10:19]select name from cates where id=10
+[2018-03-24 23:10:19]select name from cates where id=1
+[2018-03-24 23:10:19]select name from cates where id=6
+[2018-03-24 23:10:19]select name from cates where id=16
+[2018-03-24 23:10:19]select name from cates where id=8
+[2018-03-24 23:10:19]select name from cates where id=15
+[2018-03-24 23:10:19]select name from cates where id=5
+[2018-03-24 23:10:26]select count(*) as aggregate from `goods`
+[2018-03-24 23:10:26]select * from `goods` limit 10 offset 0
+[2018-03-24 23:10:26]select name from cates where id=12
+[2018-03-24 23:10:26]select name from cates where id=6
+[2018-03-24 23:10:26]select name from cates where id=3
+[2018-03-24 23:10:26]select name from cates where id=10
+[2018-03-24 23:10:26]select name from cates where id=1
+[2018-03-24 23:10:26]select name from cates where id=6
+[2018-03-24 23:10:26]select name from cates where id=16
+[2018-03-24 23:10:26]select name from cates where id=8
+[2018-03-24 23:10:26]select name from cates where id=15
+[2018-03-24 23:10:26]select name from cates where id=5
+[2018-03-24 23:10:29]select count(*) as aggregate from `goods`
+[2018-03-24 23:10:29]select * from `goods` limit 5 offset 0
+[2018-03-24 23:10:29]select name from cates where id=12
+[2018-03-24 23:10:29]select name from cates where id=6
+[2018-03-24 23:10:29]select name from cates where id=3
+[2018-03-24 23:10:29]select name from cates where id=10
+[2018-03-24 23:10:29]select name from cates where id=1
+[2018-03-24 23:10:32]select count(*) as aggregate from `goods`
+[2018-03-24 23:10:32]select * from `goods` limit 10 offset 0
+[2018-03-24 23:10:32]select name from cates where id=12
+[2018-03-24 23:10:32]select name from cates where id=6
+[2018-03-24 23:10:32]select name from cates where id=3
+[2018-03-24 23:10:32]select name from cates where id=10
+[2018-03-24 23:10:32]select name from cates where id=1
+[2018-03-24 23:10:32]select name from cates where id=6
+[2018-03-24 23:10:32]select name from cates where id=16
+[2018-03-24 23:10:32]select name from cates where id=8
+[2018-03-24 23:10:32]select name from cates where id=15
+[2018-03-24 23:10:32]select name from cates where id=5
+[2018-03-24 23:11:37]select count(*) as aggregate from `goods`
+[2018-03-24 23:11:37]select * from `goods` limit 10 offset 0
+[2018-03-24 23:11:37]select name from cates where id=12
+[2018-03-24 23:11:37]select name from cates where id=6
+[2018-03-24 23:11:37]select name from cates where id=3
+[2018-03-24 23:11:37]select name from cates where id=10
+[2018-03-24 23:11:37]select name from cates where id=1
+[2018-03-24 23:11:37]select name from cates where id=6
+[2018-03-24 23:11:37]select name from cates where id=16
+[2018-03-24 23:11:37]select name from cates where id=8
+[2018-03-24 23:11:37]select name from cates where id=15
+[2018-03-24 23:11:37]select name from cates where id=5
+[2018-03-24 23:12:00]select count(*) as aggregate from `goods`
+[2018-03-24 23:12:00]select * from `goods` limit 10 offset 0
+[2018-03-24 23:12:00]select name from cates where id=12
+[2018-03-24 23:12:00]select name from cates where id=6
+[2018-03-24 23:12:00]select name from cates where id=3
+[2018-03-24 23:12:00]select name from cates where id=10
+[2018-03-24 23:12:00]select name from cates where id=1
+[2018-03-24 23:12:00]select name from cates where id=6
+[2018-03-24 23:12:00]select name from cates where id=16
+[2018-03-24 23:12:00]select name from cates where id=8
+[2018-03-24 23:12:00]select name from cates where id=15
+[2018-03-24 23:12:00]select name from cates where id=5
+[2018-03-24 23:12:04]select count(*) as aggregate from `goods`
+[2018-03-24 23:12:04]select * from `goods` limit 5 offset 0
+[2018-03-24 23:12:04]select name from cates where id=12
+[2018-03-24 23:12:04]select name from cates where id=6
+[2018-03-24 23:12:04]select name from cates where id=3
+[2018-03-24 23:12:04]select name from cates where id=10
+[2018-03-24 23:12:04]select name from cates where id=1
+[2018-03-24 23:12:08]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 10:46:18]select * from admin where username=?
+[2018-03-25 10:46:20]select count(*) as aggregate from `users`
+[2018-03-25 10:46:20]select * from `users` limit 10 offset 0
+[2018-03-25 10:46:23]select count(*) as aggregate from `goods`
+[2018-03-25 10:46:23]select * from `goods` limit 10 offset 0
+[2018-03-25 10:46:23]select name from cates where id=12
+[2018-03-25 10:46:23]select name from cates where id=6
+[2018-03-25 10:46:23]select name from cates where id=3
+[2018-03-25 10:46:23]select name from cates where id=10
+[2018-03-25 10:46:23]select name from cates where id=1
+[2018-03-25 10:46:23]select name from cates where id=6
+[2018-03-25 10:46:23]select name from cates where id=16
+[2018-03-25 10:46:23]select name from cates where id=8
+[2018-03-25 10:46:23]select name from cates where id=15
+[2018-03-25 10:46:23]select name from cates where id=5
+[2018-03-25 10:46:44]select * from admin where username=?
+[2018-03-25 10:46:53]select * from admin where username=?
+[2018-03-25 10:46:54]select count(*) as aggregate from `users`
+[2018-03-25 10:46:54]select * from `users` limit 10 offset 0
+[2018-03-25 10:46:57]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 10:53:32]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 10:55:21]select count(*) as aggregate from `users`
+[2018-03-25 10:55:21]select * from `users` limit 10 offset 0
+[2018-03-25 10:55:29]select count(*) as aggregate from `goods`
+[2018-03-25 10:55:29]select * from `goods` limit 10 offset 0
+[2018-03-25 10:55:29]select name from cates where id=12
+[2018-03-25 10:55:29]select name from cates where id=6
+[2018-03-25 10:55:29]select name from cates where id=3
+[2018-03-25 10:55:29]select name from cates where id=10
+[2018-03-25 10:55:29]select name from cates where id=1
+[2018-03-25 10:55:29]select name from cates where id=6
+[2018-03-25 10:55:29]select name from cates where id=16
+[2018-03-25 10:55:29]select name from cates where id=8
+[2018-03-25 10:55:29]select name from cates where id=15
+[2018-03-25 10:55:29]select name from cates where id=5
+[2018-03-25 10:55:34]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 10:56:12]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 10:56:32]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 10:59:39]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:03:52]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:04:17]select * from admin where username=?
+[2018-03-25 11:04:18]select count(*) as aggregate from `users`
+[2018-03-25 11:04:18]select * from `users` limit 10 offset 0
+[2018-03-25 11:04:20]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:04:38]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:05:43]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:06:45]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:07:04]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:07:29]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:10:27]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:10:55]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:10:57]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:11:37]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:11:54]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:12:22]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:12:31]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:17:18]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 11:17:46]insert into `goods` (`gName`, `gPrice`, `cate_id`, `gStock`, `isSale`, `isHot`, `isNew`, `saleNum`, `visitNum`, `appraiseNum`, `gDesc`, `gSize`, `gColor`, `gImg`) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+[2018-03-25 11:17:47]select count(*) as aggregate from `goods`
+[2018-03-25 11:17:47]select * from `goods` limit 10 offset 0
+[2018-03-25 11:17:47]select name from cates where id=12
+[2018-03-25 11:17:48]select name from cates where id=6
+[2018-03-25 11:17:48]select name from cates where id=3
+[2018-03-25 11:17:48]select name from cates where id=10
+[2018-03-25 11:17:48]select name from cates where id=1
+[2018-03-25 11:17:48]select name from cates where id=6
+[2018-03-25 11:17:48]select name from cates where id=16
+[2018-03-25 11:17:48]select name from cates where id=8
+[2018-03-25 11:17:48]select name from cates where id=15
+[2018-03-25 11:17:48]select name from cates where id=5
+[2018-03-25 11:50:25]select count(*) as aggregate from `goods`
+[2018-03-25 11:50:25]select * from `goods` limit 10 offset 0
+[2018-03-25 11:50:25]select name from cates where id=12
+[2018-03-25 11:50:25]select name from cates where id=6
+[2018-03-25 11:50:25]select name from cates where id=3
+[2018-03-25 11:50:25]select name from cates where id=10
+[2018-03-25 11:50:25]select name from cates where id=1
+[2018-03-25 11:50:25]select name from cates where id=6
+[2018-03-25 11:50:25]select name from cates where id=16
+[2018-03-25 11:50:25]select name from cates where id=8
+[2018-03-25 11:50:25]select name from cates where id=15
+[2018-03-25 11:50:25]select name from cates where id=5
+[2018-03-25 11:50:38]select * from admin where username=?
+[2018-03-25 11:52:14]select * from admin where username=?
+[2018-03-25 11:52:37]select count(*) as aggregate from `users`
+[2018-03-25 11:52:37]select * from `users` limit 10 offset 0
+[2018-03-25 11:53:16]select * from admin where username=?
+[2018-03-25 11:53:43]select count(*) as aggregate from `users`
+[2018-03-25 11:53:43]select * from `users` limit 10 offset 0
+[2018-03-25 11:53:51]select * from admin where username=?
+[2018-03-25 11:55:13]select count(*) as aggregate from `users`
+[2018-03-25 11:55:13]select * from `users` limit 10 offset 0
+[2018-03-25 11:55:21]select * from admin where username=?
+[2018-03-25 11:55:47]select * from admin where username=?
+[2018-03-25 11:59:54]select * from admin where username=?
+[2018-03-25 12:00:21]select * from admin where username=?
+[2018-03-25 12:02:16]select * from admin where username=?
+[2018-03-25 12:02:52]select count(*) as aggregate from `users`
+[2018-03-25 12:02:52]select * from `users` limit 10 offset 0
+[2018-03-25 12:03:56]select * from admin where username=?
+[2018-03-25 12:04:17]select count(*) as aggregate from `users`
+[2018-03-25 12:04:17]select * from `users` limit 10 offset 0
+[2018-03-25 12:04:26]select * from admin where username=?
+[2018-03-25 12:04:27]select count(*) as aggregate from `users`
+[2018-03-25 12:04:27]select * from `users` limit 10 offset 0
+[2018-03-25 12:04:28]select count(*) as aggregate from `users`
+[2018-03-25 12:04:28]select * from `users` limit 10 offset 0
+[2018-03-25 12:04:30]select count(*) as aggregate from `article`
+[2018-03-25 12:04:30]select * from `article` limit 10 offset 0
+[2018-03-25 12:04:31]select count(*) as aggregate from `article`
+[2018-03-25 12:04:31]select * from `article` limit 10 offset 0
+[2018-03-25 12:04:32]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 12:04:33]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 12:04:34]select count(*) as aggregate from `goods`
+[2018-03-25 12:04:34]select * from `goods` limit 10 offset 0
+[2018-03-25 12:04:34]select name from cates where id=12
+[2018-03-25 12:04:34]select name from cates where id=6
+[2018-03-25 12:04:34]select name from cates where id=3
+[2018-03-25 12:04:34]select name from cates where id=10
+[2018-03-25 12:04:34]select name from cates where id=1
+[2018-03-25 12:04:34]select name from cates where id=6
+[2018-03-25 12:04:34]select name from cates where id=16
+[2018-03-25 12:04:34]select name from cates where id=8
+[2018-03-25 12:04:34]select name from cates where id=15
+[2018-03-25 12:04:34]select name from cates where id=5
+[2018-03-25 12:07:13]select count(*) as aggregate from `goods`
+[2018-03-25 12:07:13]select * from `goods` limit 10 offset 0
+[2018-03-25 12:07:13]select name from cates where id=12
+[2018-03-25 12:07:13]select name from cates where id=6
+[2018-03-25 12:07:13]select name from cates where id=3
+[2018-03-25 12:07:13]select name from cates where id=10
+[2018-03-25 12:07:13]select name from cates where id=1
+[2018-03-25 12:07:13]select name from cates where id=6
+[2018-03-25 12:07:13]select name from cates where id=16
+[2018-03-25 12:07:13]select name from cates where id=8
+[2018-03-25 12:07:13]select name from cates where id=15
+[2018-03-25 12:07:13]select name from cates where id=5
+[2018-03-25 12:22:06]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:22:31]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:23:52]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:35:38]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:35:38]select `name` from `cates` where `pid` between ? and ?
+[2018-03-25 12:35:50]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:35:50]select `name` from `cates` where `pid` between ? and ?
+[2018-03-25 12:37:16]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:38:21]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:39:10]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:39:29]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:39:29]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:39:29]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:39:29]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:39:29]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:40:31]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:40:31]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:40:31]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:40:31]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:40:31]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:42:35]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:42:35]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:42:35]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:42:35]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:42:35]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:45:26]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:45:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:45:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:45:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:45:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:47:30]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:47:30]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:47:30]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:47:30]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:47:30]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:11]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:48:11]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:11]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:11]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:11]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:26]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:48:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:48:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:26]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:51:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:26]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:38]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:51:38]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:38]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:38]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:51:38]select `name`, `pid` from `cates` where `pid` = ?
+[2018-03-25 12:52:31]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:52:31]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:52:31]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:52:31]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:52:31]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:53:54]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:53:54]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:53:54]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:53:54]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:53:54]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:28]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:55:28]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:28]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:28]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:28]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:57]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:55:57]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:57]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:57]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:55:57]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:33]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:56:33]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:33]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:33]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:33]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:42]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:56:42]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:42]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:42]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:56:42]select `name` from `cates` where `pid` = ?
+[2018-03-25 12:58:44]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:58:44]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:58:44]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:58:44]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:58:44]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:59:08]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:59:08]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:59:08]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:59:08]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 12:59:08]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:03:29]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:03:29]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:03:47]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:03:47]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:05:38]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:05:38]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:05:38]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:05:38]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:05:38]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:05:40]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:05:40]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:05:40]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:05:40]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:05:40]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:06:58]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:06:58]select `name`, `id` from `cates` where `pid` = ?
+[2018-03-25 13:06:58]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:06:58]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:06:58]select `name` from `cates` where `pid` = ?
+[2018-03-25 13:09:36]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:10:13]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:11:53]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 13:14:16]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:13]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:28]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:30]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:07:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:09]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:25]select * from admin where username=?
+[2018-03-25 16:08:26]select count(*) as aggregate from `users`
+[2018-03-25 16:08:26]select * from `users` limit 10 offset 0
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:08:31]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:54]select count(*) as aggregate from `users`
+[2018-03-25 16:09:54]select * from `users` limit 10 offset 0
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:09:59]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:10:14]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:13:47]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:16:12]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:17:57]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:23:51]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:04]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:29]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:24:45]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:53]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:26:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:05]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:07]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:08]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:55]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:27:56]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:15]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:28:18]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:00]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-25 16:29:39]select * from `cates` where `pid` = ?
+[2018-03-26 18:56:21]select * from admin where username=?
+[2018-03-26 18:56:24]select count(*) as aggregate from `users`
+[2018-03-26 18:56:24]select * from `users` limit 10 offset 0
+[2018-03-26 19:00:13]select count(*) as aggregate from `users`
+[2018-03-26 19:00:13]select * from `users` limit 10 offset 0
+[2018-03-26 19:09:43]select * from admin where username=?
+[2018-03-26 19:21:21]select count(*) as aggregate from `users`
+[2018-03-26 19:21:21]select * from `users` limit 10 offset 0
+[2018-03-26 19:29:04]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:29:05]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:30:42]select * from `cates` where `pid` = ?
+[2018-03-26 19:31:42]select count(*) as aggregate from `users`
+[2018-03-26 19:31:42]select * from `users` limit 10 offset 0
+[2018-03-26 19:31:42]select count(*) as aggregate from `users`
+[2018-03-26 19:31:42]select * from `users` limit 10 offset 0
+[2018-03-26 19:31:45]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:31:59]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:32:01]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:06]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:15]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:32:15]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:32:16]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:19]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:28]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:32:28]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:32:29]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:33]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:39]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:32:40]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:32:41]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:48]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:50]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:32:55]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:32:56]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:00]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:07]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:33:07]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:33:08]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:10]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:18]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:33:18]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:33:19]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:27]select * from `cates` where `pid` = ?
+[2018-03-26 19:33:45]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:52]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:33:52]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:33:53]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:33:56]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:34:08]select * from `cates` where `id` = ? limit 1
+[2018-03-26 19:34:08]insert into `cates` (`name`, `pid`, `path`) values (?, ?, ?)
+[2018-03-26 19:34:10]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:15]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:34:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:35:22]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-03-26 19:36:21]select * from `cates` where `pid` = ?
+[2018-04-06 17:04:03]select * from admin where username=?
+[2018-04-06 17:04:06]select count(*) as aggregate from `users`
+[2018-04-06 17:04:06]select * from `users` limit 10 offset 0
+[2018-04-06 17:04:10]select count(*) as aggregate from `users`
+[2018-04-06 17:04:10]select * from `users` limit 10 offset 0
+[2018-04-06 17:04:28]select count(*) as aggregate from `goods`
+[2018-04-06 17:04:28]select * from `goods` limit 10 offset 0
+[2018-04-06 17:04:28]select name from cates where id=12
+[2018-04-06 17:04:28]select name from cates where id=6
+[2018-04-06 17:04:28]select name from cates where id=3
+[2018-04-06 17:04:32]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-04-06 17:04:40]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-04-06 17:04:43]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-04-06 17:04:46]select  *,concat(path,',',id) as npath from `cates` order by `npath` asc
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:03]select * from `cates` where `pid` = ?
+[2018-04-06 17:05:04]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:47:21]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:38]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:41]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:45]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:50:49]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 17:54:57]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
+[2018-04-07 18:22:03]select * from `cates` where `pid` = ?
